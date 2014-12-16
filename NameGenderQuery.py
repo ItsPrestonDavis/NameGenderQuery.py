@@ -32,7 +32,7 @@ def askGender():
         # Alert the user and try again.
         print ("Looks like you didn't enter your gender! Let's try that again! \n")
         return askGender()
-    # If the user has not entered any input, alerty them and try again.
+    # If the user has not entered any input, alert them and try again.
     else:
         print ("Looks like you entered something other than male or female! Let's try that again! \n")
         return askGender()
