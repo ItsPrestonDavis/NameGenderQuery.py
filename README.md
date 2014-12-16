@@ -1,9 +1,9 @@
-# NameGenderQuery.py
+NameGenderQuery.py
 =================
-# @ItsPrestonDavis - Twitter, Github
+@ItsPrestonDavis - Twitter, Github
 
-# Query a user for their name and gender. 
-# Then, generate a response based off that information.
+Query a user for their name and gender. 
+Then, generate a response based off that information.
 
 
 
